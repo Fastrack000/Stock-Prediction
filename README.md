@@ -30,21 +30,6 @@ reduce the overfitting of the model. </li>
 </ul>
 
 
-### Images:
-<figure>
-    <img src='https://user-images.githubusercontent.com/93902835/214059484-908d5163-d6c4-410b-9da4-166cab00ad94.png' alt='Data_set_of_tata_motors' />
-    <figcaption>Img. 1: Tata_Motors_Dataset_Head</figcaption>
-</figure>
-<br>
-<br>
-<br>
-<br>
-<figure>
-    <img src='https://user-images.githubusercontent.com/93902835/214060121-95090005-184d-4105-abba-3e7ee7527afb.png' alt='Stock_price_prediction_result' width="700" 
-     height="350"/>
-    <figcaption>Img. 2: Final_Prediction_Graph</figcaption>
-</figure>
-
 ### ML Model Details:
 > LSTM (Long short-term memory)
 <ul>
